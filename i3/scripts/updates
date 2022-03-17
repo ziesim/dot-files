@@ -1,0 +1,5 @@
+#!/bin/bash
+
+pkg=$(/usr/bin/checkupdates | wc -l)
+
+echo $pkg
