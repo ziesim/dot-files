@@ -1,0 +1,9 @@
+chrome-gnome-shell
+gdm-settings
+intellij-idea-ultimate-edition
+megasync-bin
+nautilus-megasync
+spotify
+timeshift
+typora-free
+visual-studio-code-bin
