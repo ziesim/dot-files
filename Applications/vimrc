@@ -102,6 +102,7 @@ call plug#begin('~/.vim/plugged')
   Plug 'preservim/nerdtree'
   Plug 'joshdick/onedark.vim'
   Plug 'dracula/vim', { 'as': 'dracula' }
+  Plug 'ayu-theme/ayu-vim'
 
 call plug#end()
 
@@ -258,6 +259,6 @@ set laststatus=2
 
 " }}}
 
-colorscheme dracula
+colorscheme ayu
 
 let g:onedark_termcolors=256

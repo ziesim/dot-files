@@ -43,6 +43,7 @@ echo "#########################"
 mkdir /home/$USER/.vim
 cp /home/$USER/Github/dot-files/Applications/vim/* /home/$USER/.vim
 cp /home/$USER/Github/dot-files/Applications/vimrc /home/$USER/.vimrc
+vim +PlugInstall +qall
 echo " "
 
 echo "############################"
