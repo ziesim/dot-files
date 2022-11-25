@@ -101,7 +101,7 @@ call plug#begin('~/.vim/plugged')
   Plug 'dense-analysis/ale'
   Plug 'preservim/nerdtree'
   Plug 'joshdick/onedark.vim'
-  Plug 'phanviet/vim-monokai-pro'
+  Plug 'crusoexia/vim-monokai'
 
 call plug#end()
 
@@ -258,6 +258,6 @@ set laststatus=2
 
 " }}}
 
-colorscheme monokai_pro
+colorscheme monokai
 
 let g:onedark_termcolors=256
