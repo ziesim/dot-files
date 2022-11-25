@@ -1,8 +1,8 @@
-gdm-settings
 gnome-browser-connector
-intellij-idea-ultimate-edition
 megasync-bin
 nautilus-megasync
+snap-pac-grub
+snapper-gui-git
 spotify
 typora
 visual-studio-code-bin
