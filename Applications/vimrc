@@ -101,8 +101,7 @@ call plug#begin('~/.vim/plugged')
   Plug 'dense-analysis/ale'
   Plug 'preservim/nerdtree'
   Plug 'joshdick/onedark.vim'
-  Plug 'dracula/vim', { 'as': 'dracula' }
-  Plug 'ayu-theme/ayu-vim'
+  Plug 'phanviet/vim-monokai-pro'
 
 call plug#end()
 
@@ -259,6 +258,6 @@ set laststatus=2
 
 " }}}
 
-colorscheme ayu
+colorscheme monokai_pro
 
 let g:onedark_termcolors=256
