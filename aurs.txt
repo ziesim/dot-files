@@ -1,8 +1,10 @@
+gdm-settings
 gnome-browser-connector
 megasync-bin
 nautilus-megasync
 snap-pac-grub
 snapper-gui-git
 spotify
+sublime-text-4
 typora
 visual-studio-code-bin

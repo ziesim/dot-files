@@ -148,6 +148,7 @@ pavucontrol
 pdfarranger
 php
 pkgconf
+plank
 pulseaudio
 pulseaudio-alsa
 pulseaudio-bluetooth
