@@ -26,6 +26,7 @@ dialog
 discord
 docker
 dosfstools
+editorconfig-core-c
 efibootmgr
 efitools
 electron
@@ -44,6 +45,7 @@ gawk
 gcc
 gcolor3
 gdm
+gedit
 geogebra
 gettext
 gimp
@@ -70,7 +72,6 @@ gnome-shell-extensions
 gnome-sudoku
 gnome-system-monitor
 gnome-terminal
-gnome-text-editor
 gnome-themes-extra
 gnome-tweaks
 gnome-user-docs
