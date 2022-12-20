@@ -106,6 +106,7 @@ hashcat
 htop
 hunspell-de
 hunspell-en_us
+hydra
 inetutils
 inkscape
 iwd
@@ -130,6 +131,7 @@ make
 malcontent
 man-db
 man-pages
+mariadb
 mtools
 mutter
 nautilus
