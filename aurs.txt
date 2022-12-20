@@ -7,4 +7,3 @@ snapper-gui-git
 sublime-text-4
 typora
 visual-studio-code-bin
-yay
