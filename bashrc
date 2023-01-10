@@ -53,6 +53,7 @@ alias sx="startx"
 alias src="source ~/.zshrc"
 alias reflect="sudo reflector --verbose --country 'Germany' -l 200 -p https --sort rate --save /etc/pacman.d/mirrorlist"
 alias spotify="flatpak run com.spotify.Client"
+alias megasync="flatpak run nz.mega.MEGAsync"
 
 [[ "$(whoami)" = "root" ]] && return
 
