@@ -1,7 +1,5 @@
 gdm-settings
 gnome-browser-connector
-megasync-bin
-nautilus-megasync
 snap-pac-grub
 snapper-gui-git
 sublime-text-4
