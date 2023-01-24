@@ -1,7 +1,6 @@
 gdm-settings
 gnome-browser-connector
-snap-pac-grub
-snapper-gui-git
-sublime-text-4
+timeshift
+timeshift-autosnap
 typora
 visual-studio-code-bin
