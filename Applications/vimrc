@@ -113,6 +113,7 @@ call plug#begin('~/.vim/plugged')
   Plug 'joshdick/onedark.vim'
   Plug 'crusoexia/vim-monokai'
   Plug 'arcticicestudio/nord-vim'
+  Plug 'patstockwell/vim-monokai-tasty'
 
 call plug#end()
 
@@ -269,6 +270,6 @@ set laststatus=2
 
 " }}}
 
-colorscheme nord
+colorscheme vim-monokai-tasty
 
 let g:onedark_termcolors=256
