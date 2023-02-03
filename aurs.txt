@@ -1,3 +1,4 @@
+anki
 gdm-settings
 gnome-browser-connector
 timeshift
