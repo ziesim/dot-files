@@ -1,6 +1,6 @@
-anki
 gdm-settings
 gnome-browser-connector
+processing
 timeshift
 timeshift-autosnap
 typora

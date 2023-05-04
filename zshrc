@@ -123,11 +123,18 @@ alias gpush="git push"
 alias gpull="git pull"
 alias gitu="git add * && git commit -a && git push"
 alias vsc="code . && exit"
-# alias yup="yay -Syyuu"
-alias yup="UpdateInTerminal"
+alias yup="yay -Syyuu"
+# alias yup="UpdateInTerminal"
 # alias sx="startx"
 alias src="source ~/.zshrc"
 alias nf="neofetch"
 # alias reflect="sudo reflector --verbose --country 'Germany' -l 50 -p https --sort rate --save /etc/pacman.d/mirrorlist"
-# alias spotify="flatpak run com.spotify.Client"
-# alias megasync="flatpak run nz.mega.MEGAsync"
+alias sshhf="ssh exin.informatik.hs-fulda.de -l fdai6547"
+
+# Eigenes bin-Verzeichnis zum Systempfad PATH hinzufügen
+# Prüfen ob das Verzeichnis existiert:
+if [ -d "$HOME/.bin" ] ; then
+    PATH="$HOME/.bin:$PATH"
+    export PATH;
+fi
+export EDITOR=vim

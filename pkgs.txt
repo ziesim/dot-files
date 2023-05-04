@@ -7,6 +7,7 @@ alsa-plugins
 alsa-utils
 amd-ucode
 archlinux-keyring
+archlinux-wallpaper
 audacity
 autoconf
 automake
