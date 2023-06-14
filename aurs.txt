@@ -1,5 +1,4 @@
-gdm-settings
-gnome-browser-connector
+megasync-bin
 processing
 timeshift
 timeshift-autosnap
