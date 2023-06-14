@@ -115,6 +115,7 @@ call plug#begin('~/.vim/plugged')
   Plug 'arcticicestudio/nord-vim'
   Plug 'patstockwell/vim-monokai-tasty'
   Plug 'ayu-theme/ayu-vim'
+  Plug 'morhetz/gruvbox'
 
 call plug#end()
 
@@ -274,6 +275,7 @@ set laststatus=2
 let g:onedark_termcolors=256
 set termguicolors
 let ayucolor="light"
+set bg=dark    " Setting dark mode
 
-colorscheme ayu
+colorscheme nord
 
