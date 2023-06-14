@@ -130,6 +130,7 @@ alias src="source ~/.zshrc"
 alias nf="neofetch"
 # alias reflect="sudo reflector --verbose --country 'Germany' -l 50 -p https --sort rate --save /etc/pacman.d/mirrorlist"
 alias sshhf="ssh exin.informatik.hs-fulda.de -l fdai6547"
+alias gttheme='bash -c "$(wget -qO- https://git.io/vQgMr)"'
 
 # Eigenes bin-Verzeichnis zum Systempfad PATH hinzufügen
 # Prüfen ob das Verzeichnis existiert:
