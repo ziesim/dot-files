@@ -131,10 +131,6 @@ alias nf="neofetch"
 # alias reflect="sudo reflector --verbose --country 'Germany' -l 50 -p https --sort rate --save /etc/pacman.d/mirrorlist"
 alias sshhf="ssh exin.informatik.hs-fulda.de -l fdai6547"
 alias gttheme='bash -c "$(wget -qO- https://git.io/vQgMr)"'
-alias gccall='gcc smbbroker.c -o smbbroker && gcc smbpublish.c -o smbpublish && gcc smbsubscribe.c -o smbsubscribe'
-alias sb='./smbbroker'
-alias sp='./smbpublish'
-alias ss='./smbsubscribe'
 
 # Eigenes bin-Verzeichnis zum Systempfad PATH hinzufügen
 # Prüfen ob das Verzeichnis existiert:
