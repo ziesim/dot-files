@@ -1,6 +1,5 @@
 megasync-bin
 processing
-timeshift
 timeshift-autosnap
 typora
 visual-studio-code-bin
