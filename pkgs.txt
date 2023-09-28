@@ -9,6 +9,7 @@ alsa-firmware
 alsa-plugins
 alsa-utils
 amd-ucode
+arc-gtk-theme-eos
 archlinux-wallpaper
 audacity
 b43-fwcutter
@@ -42,6 +43,7 @@ discord
 dmidecode
 dmraid
 dnsmasq
+docker
 dosfstools
 downgrade
 dracut
@@ -218,6 +220,7 @@ pavucontrol
 pdfarranger
 perl
 php
+piper
 pipewire-alsa
 pipewire-jack
 pipewire-pulse
@@ -286,6 +289,7 @@ warpinator
 welcome
 wget
 which
+wine
 wireless_tools
 wireplumber
 wpa_supplicant
