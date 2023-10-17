@@ -221,7 +221,6 @@ pavucontrol
 pdfarranger
 perl
 php
-piper
 pipewire-alsa
 pipewire-jack
 pipewire-pulse
