@@ -10,7 +10,6 @@ alsa-plugins
 alsa-utils
 amd-ucode
 arc-gtk-theme-eos
-archlinux-wallpaper
 audacity
 b43-fwcutter
 baobab
@@ -134,6 +133,7 @@ gst-libav
 gst-plugin-pipewire
 gst-plugins-bad
 gst-plugins-ugly
+gtk-engine-murrine
 gufw
 gutenprint
 gvfs
@@ -213,6 +213,7 @@ ntfs-3g
 ntp
 numlockx
 obs-studio
+obsidian
 openssh
 os-prober
 pacman-contrib
@@ -225,7 +226,6 @@ pipewire-alsa
 pipewire-jack
 pipewire-pulse
 pkgfile
-plank
 pnpm
 poppler-glib
 power-profiles-daemon
@@ -257,7 +257,6 @@ snapper
 sof-firmware
 splix
 spotify-launcher
-steam
 sudo
 sushi
 sysfsutils
