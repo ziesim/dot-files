@@ -131,6 +131,14 @@ alias nf="neofetch"
 # alias reflect="sudo reflector --verbose --country 'Germany' -l 50 -p https --sort rate --save /etc/pacman.d/mirrorlist"
 alias sshhf="ssh exin.informatik.hs-fulda.de -l fdai6547"
 alias gttheme='bash -c "$(wget -qO- https://git.io/vQgMr)"'
+alias s1="/home/simon/MegaCloud/Studium/Semester1"
+alias s2="/home/simon/MegaCloud/Studium/Semester2"
+alias s3="/home/simon/MegaCloud/Studium/Semester3"
+alias s4="/home/simon/MegaCloud/Studium/Semester4"
+alias s5="/home/simon/MegaCloud/Studium/Semester5"
+alias s6="/home/simon/MegaCloud/Studium/Semester6"
+alias s7="/home/simon/MegaCloud/Studium/Semester7"
+alias kc="kubectl"
 
 # Eigenes bin-Verzeichnis zum Systempfad PATH hinzufügen
 # Prüfen ob das Verzeichnis existiert:
